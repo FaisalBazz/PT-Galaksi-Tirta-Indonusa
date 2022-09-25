@@ -94,15 +94,19 @@ body {
   background-color: #F0EBE3;
 } */
 
+/* #kompetensi{
+  background-color: #F0EBE3;
+} */
+
 #referensi{
   background-color: #F0EBE3;
 }
 
 #list-project{
-   background-image: url('../img/bg-paralax.jpg');
+   background-image: url('../img/bg1.jpeg');
   background-size: cover;
   background-attachment: fixed;
   background-color: #F0EBE3;
+  background-position-y: -300px;
   color: white;
-
 }
